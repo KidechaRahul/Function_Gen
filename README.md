@@ -11,6 +11,7 @@ This project has a command line interface capable of controlling the system and 
 
 
 2 Hardware Description
+
 The circuit and PSPICE simulation is provided for the analog processing stages. Microcontroller:
 An ARM M4F core (TM4C123GH6PMI microcontroller) is required
 
@@ -39,6 +40,7 @@ Five connections will be provided to allow access to the 2 outputs and 2 inputs 
 
 
 3 Suggested Parts List
+
 
 Part                                                                             Quantity
 
@@ -100,6 +102,7 @@ Tools, safety glasses, …                                               1 each
 
 
 4 Software Description
+
 
 A virtual COM power using a 115200 baud, 8N1 protocol with no hardware handshaking shall be provided with support to the following commands.
 
